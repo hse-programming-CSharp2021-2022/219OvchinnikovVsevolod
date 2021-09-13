@@ -1,0 +1,11 @@
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.0\ASCIIDecoder.exe
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.0\ASCIIDecoder.deps.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.0\ASCIIDecoder.runtimeconfig.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.0\ASCIIDecoder.runtimeconfig.dev.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.0\ASCIIDecoder.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.0\ASCIIDecoder.pdb
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.0\ASCIIDecoder.csprojAssemblyReference.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.0\ASCIIDecoder.AssemblyInfoInputs.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.0\ASCIIDecoder.AssemblyInfo.cs
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.0\ASCIIDecoder.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.0\ASCIIDecoder.pdb
