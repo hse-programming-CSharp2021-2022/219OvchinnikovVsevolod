@@ -1,0 +1,11 @@
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\bin\Debug\netcoreapp3.0\Task 01.exe
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\bin\Debug\netcoreapp3.0\Task 01.deps.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\bin\Debug\netcoreapp3.0\Task 01.runtimeconfig.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\bin\Debug\netcoreapp3.0\Task 01.runtimeconfig.dev.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\bin\Debug\netcoreapp3.0\Task 01.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\bin\Debug\netcoreapp3.0\Task 01.pdb
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\obj\Debug\netcoreapp3.0\Task 01.csprojAssemblyReference.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\obj\Debug\netcoreapp3.0\Task 01.AssemblyInfoInputs.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\obj\Debug\netcoreapp3.0\Task 01.AssemblyInfo.cs
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\obj\Debug\netcoreapp3.0\Task 01.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\CW_2\Task 01\obj\Debug\netcoreapp3.0\Task 01.pdb

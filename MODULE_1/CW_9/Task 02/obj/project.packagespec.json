@@ -1,0 +1,35 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_1\\CW_9\\Task 02\\Task 02.csproj",
+    "projectName": "Task 02",
+    "projectPath": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_1\\CW_9\\Task 02\\Task 02.csproj",
+    "outputPath": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_1\\CW_9\\Task 02\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net48"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net48": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {}
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

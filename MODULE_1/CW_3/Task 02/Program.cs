@@ -14,9 +14,10 @@ namespace Task_02
             x = !(p && q) && (!(p | !q));
             return;
         }
+
         static void Main(string[] args)
         {
-            bool[] flags = {false, true};
+            bool[] flags = { false, true };
             for (var p = 0; p < flags.Length; p += 1)
             {
                 for (var q = 0; q < flags.Length; q += 1)

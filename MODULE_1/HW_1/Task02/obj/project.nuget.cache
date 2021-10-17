@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYXEx2VaE6J/zzbK7O9xMEfvYhuWXuWESGhMQVYail8I623iXGQ1csc80kGw8xOhAVHVP+jTZpZWtv/atcrdHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_1\\HW_1\\Task02\\Task02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sevav\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sevav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sevav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\sevav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

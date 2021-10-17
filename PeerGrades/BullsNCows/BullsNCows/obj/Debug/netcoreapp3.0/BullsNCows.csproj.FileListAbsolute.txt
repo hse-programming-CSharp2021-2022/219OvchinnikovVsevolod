@@ -1,0 +1,14 @@
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\bin\Debug\netcoreapp3.0\BullsNCows.exe
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\bin\Debug\netcoreapp3.0\BullsNCows.deps.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\bin\Debug\netcoreapp3.0\BullsNCows.runtimeconfig.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\bin\Debug\netcoreapp3.0\BullsNCows.runtimeconfig.dev.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\bin\Debug\netcoreapp3.0\BullsNCows.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\bin\Debug\netcoreapp3.0\BullsNCows.pdb
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.AssemblyInfoInputs.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.AssemblyInfo.cs
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.pdb
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.csproj.AssemblyReference.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.csproj.CoreCompileInputs.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\PeerGrades\BullsNCows\BullsNCows\obj\Debug\netcoreapp3.0\BullsNCows.genruntimeconfig.cache

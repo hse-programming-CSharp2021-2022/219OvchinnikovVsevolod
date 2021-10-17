@@ -1,0 +1,16 @@
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\Task 02.exe
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\Task 02.deps.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\Task 02.runtimeconfig.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\Task 02.runtimeconfig.dev.json
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\Task 02.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\ref\Task 02.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\bin\Debug\net5.0\Task 02.pdb
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.csproj.AssemblyReference.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.AssemblyInfoInputs.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.AssemblyInfo.cs
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.csproj.CoreCompileInputs.cache
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\ref\Task 02.dll
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.pdb
+C:\Users\sevav\RiderProjects\219OvchinnikovVsevolod\MODULE_1\HW_5\Task 02\obj\Debug\net5.0\Task 02.genruntimeconfig.cache
