@@ -2,106 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a1a0281-f563-45a9-905d-876a4d0b3a01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CW_11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_7/.idea/.idea.CW_7/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_7/.idea/.idea.CW_7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_7/.idea/.idea.CW_7/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_7/.idea/.idea.CW_7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_7/.idea/.idea.CW_7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_8/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_9/.idea/.idea.CW_9/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_9/.idea/.idea.CW_9/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_9/.idea/.idea.CW_9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_9/.idea/.idea.CW_9/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CW_9/.idea/.idea.CW_9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW_2/.idea/.idea.HW_2/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW_2/.idea/.idea.HW_2/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW_2/.idea/.idea.HW_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW_3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MatrixManipulator/MatrixManipulator/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test_CW/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PeerGrades/BullsNCows/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 01/obj/Debug/netcoreapp3.0/Task 01.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 01/obj/Debug/netcoreapp3.0/Task 01.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 01/obj/Task 01.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 01/obj/Task 01.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 01/obj/Task 01.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 01/obj/Task 01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 01/obj/Task 01.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 01/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 01/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 01/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 01/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 02/obj/Debug/netcoreapp3.0/Task 02.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 02/obj/Debug/netcoreapp3.0/Task 02.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 02/obj/Task 02.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 02/obj/Task 02.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 02/obj/Task 02.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 02/obj/Task 02.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 02/obj/Task 02.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 02/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 02/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 02/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 02/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 03/obj/Debug/netcoreapp3.0/Task 03.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 03/obj/Debug/netcoreapp3.0/Task 03.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 03/obj/Task 03.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 03/obj/Task 03.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 03/obj/Task 03.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 03/obj/Task 03.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 03/obj/Task 03.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 03/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 03/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 03/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 03/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 04/obj/Debug/netcoreapp3.0/Task 04.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 04/obj/Debug/netcoreapp3.0/Task 04.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 04/obj/Task 04.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 04/obj/Task 04.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 04/obj/Task 04.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 04/obj/Task 04.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 04/obj/Task 04.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 04/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 04/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 04/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 04/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 05/obj/Debug/netcoreapp3.0/Task 05.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 05/obj/Debug/netcoreapp3.0/Task 05.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 05/obj/Task 05.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 05/obj/Task 05.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 05/obj/Task 05.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 05/obj/Task 05.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 05/obj/Task 05.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 05/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 05/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task 05/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task 05/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task10/obj/Debug/netcoreapp3.0/Task10.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task10/obj/Debug/netcoreapp3.0/Task10.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task10/obj/Task10.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task10/obj/Task10.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task10/obj/Task10.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task10/obj/Task10.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task10/obj/Task10.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task10/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task10/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_1/Task10/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_1/Task10/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_2/.idea/.idea.CW_2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_2/.idea/.idea.CW_2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_2/.idea/.idea.CW_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_2/.idea/.idea.CW_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_2/CW_2.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_2/CW_2.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_3/.idea/.idea.CW_3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_3/.idea/.idea.CW_3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_3/CW_3.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_3/CW_3.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/contentModel.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_1/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASCIIDecoder/obj/Debug/netcoreapp3.0/ASCIIDecoder.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ASCIIDecoder/obj/Debug/netcoreapp3.0/ASCIIDecoder.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ASCIIDecoder/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ASCIIDecoder/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ASCIIDecoder/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ASCIIDecoder/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task01/obj/Debug/netcoreapp3.0/Task01.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/obj/Debug/netcoreapp3.0/Task01.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task01/obj/Task01.csproj.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Task01/obj/Task01.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/obj/Task01.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task01/obj/Task01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/obj/Task01.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task01/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task01/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task02/obj/Debug/netcoreapp3.0/Task02.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task02/obj/Debug/netcoreapp3.0/Task02.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task02/obj/Task02.csproj.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Task02/obj/Task02.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task02/obj/Task02.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task02/obj/Task02.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Task02/obj/Task02.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task02/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task02/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task02/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task02/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task04/obj/Debug/netcoreapp3.0/Task04.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task04/obj/Debug/netcoreapp3.0/Task04.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task04/obj/Task04.csproj.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Task04/obj/Task04.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task04/obj/Task04.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task04/obj/Task04.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Task04/obj/Task04.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task04/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task04/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task04/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task04/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task05/obj/Debug/netcoreapp3.0/Task05.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task05/obj/Debug/netcoreapp3.0/Task05.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task05/obj/Task05.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task05/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task05/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task05/obj/Task05.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task05/obj/Task05.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task05/obj/Task05.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Task05/obj/Task05.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task05/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task05/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task05/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Task05/obj/project.packagespec.json" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +76,18 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected=".NET Project.Task05">
     <configuration name="ASCIIDecoder" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ASCIIDecoder/bin/Debug/netcoreapp3.0/ASCIIDecoder.dll" />
@@ -166,7 +104,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -184,7 +122,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="Task02" type="DotNetProject" factoryName=".NET Project" temporary="true">
@@ -202,7 +140,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="Task04" type="DotNetProject" factoryName=".NET Project" temporary="true">
@@ -220,7 +158,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <configuration name="Task05" type="DotNetProject" factoryName=".NET Project" temporary="true">
@@ -238,7 +176,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
       <method v="2">
-        <option name="Build" />
+        <option name="Build" enabled="true" />
       </method>
     </configuration>
     <list>
@@ -257,7 +195,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -273,11 +211,12 @@
       <workItem from="1634419304133" duration="311000" />
       <workItem from="1634419794953" duration="34000" />
       <workItem from="1634420015762" duration="46000" />
+      <workItem from="1635508631188" duration="2383000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
@@ -287,14 +226,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

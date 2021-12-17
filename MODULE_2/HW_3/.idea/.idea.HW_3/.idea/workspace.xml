@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da1b3eb6-5e48-4dc2-957d-88faf4964b74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/.idea/.idea.HW_1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/.idea/.idea.HW_1/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/.idea/.idea.HW_1/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/.idea/.idea.HW_1/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/.idea/.idea.HW_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/.idea/.idea.HW_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/ASCIIDecoder.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/ASCIIDecoder/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/Task01.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/Task01.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/Task01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/Task01.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task01/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/Task02.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/Task02.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/Task02.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/Task02.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task02/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/Task04.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/Task04.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/Task04.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/Task04.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task04/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/Task05.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/Task05.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/Task05.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/Task05.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE_1/HW_1/Task05/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Task 1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Task 1/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22PWdpIRI9AVHFNPonuUQ1lD5Qu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Task 1">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task 1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Task 1/Task 1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Task 1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da1b3eb6-5e48-4dc2-957d-88faf4964b74" name="Default Changelist" comment="" />
+      <created>1639739792399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639739792399</updated>
+      <workItem from="1639739793673" duration="3762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {},
+    ".NETFramework,Version=v4.8/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": []
+  },
+  "packageFolders": {
+    "C:\\Users\\sevav\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_2\\HW 5\\Task 1\\Task 1.csproj",
+      "projectName": "Task 1",
+      "projectPath": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_2\\HW 5\\Task 1\\Task 1.csproj",
+      "packagesPath": "C:\\Users\\sevav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sevav\\RiderProjects\\219OvchinnikovVsevolod\\MODULE_2\\HW 5\\Task 1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sevav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

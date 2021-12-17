@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task 1\Task 1.csproj", "{B909A3FD-6B4B-44E1-B737-34C4A2884496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{DAE951FA-5C8A-46B4-86E0-2392966EEC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B909A3FD-6B4B-44E1-B737-34C4A2884496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B909A3FD-6B4B-44E1-B737-34C4A2884496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B909A3FD-6B4B-44E1-B737-34C4A2884496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B909A3FD-6B4B-44E1-B737-34C4A2884496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE951FA-5C8A-46B4-86E0-2392966EEC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE951FA-5C8A-46B4-86E0-2392966EEC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE951FA-5C8A-46B4-86E0-2392966EEC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE951FA-5C8A-46B4-86E0-2392966EEC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
