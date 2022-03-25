@@ -5,8 +5,7 @@ namespace Task_1
 {
     public class RingIsFoundEventArgs : EventArgs
     {
-        public RingIsFoundEventArgs(string s)
-            => Message = s;
+        public RingIsFoundEventArgs(string s) => Message = s;
         public string Message { get; }
     }
     
@@ -15,8 +14,7 @@ namespace Task_1
     {
         public string Name { get; }
 
-        public Person(string name)
-            => Name = name;
+        public Person(string name) => Name = name;
 
         public abstract void RingIsFountEventHandler(object sender, RingIsFoundEventArgs e);
     }
@@ -25,11 +23,9 @@ namespace Task_1
     {
         public string Name { get; }
 
-        public Wizard(string name)
-            => Name = name;
+        public Wizard(string name) => Name = name;
 
-        public delegate void RingIsFoundEventHandler(object sender,
-            RingIsFoundEventArgs s);
+        public delegate void RingIsFoundEventHandler(object sender, RingIsFoundEventArgs s);
 
         public event RingIsFoundEventHandler RaiseRingIsFoundEvent;
 
@@ -46,7 +42,7 @@ namespace Task_1
 
         public override void RingIsFountEventHandler(object sender, RingIsFoundEventArgs e)
         {
-            Console.WriteLine($"{Name} >> Покидаю Шир! Иду в " + e.Message);
+            Console.WriteLine($"{Name} >> Покидаю Шир! Иду в {e.Message}");
         }
     }
 
@@ -66,7 +62,7 @@ namespace Task_1
         
         public override void RingIsFountEventHandler(object sender, RingIsFoundEventArgs e)
         {
-            Console.WriteLine($"{Name} >> Звёзды светят не так ярко как обычно. Цветы увядают. Листья предсказывают идти в " + e.Message);
+            Console.WriteLine($"{Name} >> Звёзды светят не так ярко как обычно. Цветы увядают. Листья предсказывают идти в {e.Message}");
         }
     }
 
@@ -76,7 +72,7 @@ namespace Task_1
         
         public override void RingIsFountEventHandler(object sender, RingIsFoundEventArgs e)
         {
-            Console.WriteLine($"{Name} >> Точим топоры, собираем припасы! Выдвигаемся в " + e.Message);
+            Console.WriteLine($"{Name} >> Точим топоры, собираем припасы! Выдвигаемся в {e.Message}");
         }
     }
     
