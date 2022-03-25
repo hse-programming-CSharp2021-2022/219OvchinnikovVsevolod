@@ -1,0 +1,15 @@
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/bin/Debug/net5.0/Task 3.deps.json
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/bin/Debug/net5.0/Task 3.runtimeconfig.json
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/bin/Debug/net5.0/Task 3.runtimeconfig.dev.json
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/bin/Debug/net5.0/Task 3.dll
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/bin/Debug/net5.0/ref/Task 3.dll
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/bin/Debug/net5.0/Task 3.pdb
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.csproj.AssemblyReference.cache
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.AssemblyInfoInputs.cache
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.AssemblyInfo.cs
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.csproj.CoreCompileInputs.cache
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.dll
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/ref/Task 3.dll
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.pdb
+/Users/logo/RiderProjects/MODULE_3/HW_1/Task 3/obj/Debug/net5.0/Task 3.genruntimeconfig.cache
