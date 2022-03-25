@@ -1,0 +1,15 @@
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/bin/Debug/net5.0/Task 1.deps.json
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/bin/Debug/net5.0/Task 1.runtimeconfig.json
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/bin/Debug/net5.0/Task 1.runtimeconfig.dev.json
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/bin/Debug/net5.0/Task 1.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/bin/Debug/net5.0/ref/Task 1.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/bin/Debug/net5.0/Task 1.pdb
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.csproj.AssemblyReference.cache
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.AssemblyInfoInputs.cache
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.AssemblyInfo.cs
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/ref/Task 1.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.pdb
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_5/Task 1/obj/Debug/net5.0/Task 1.genruntimeconfig.cache
