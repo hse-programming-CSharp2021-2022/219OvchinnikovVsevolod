@@ -1,0 +1,15 @@
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/bin/Debug/net5.0/Bin Tree.deps.json
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/bin/Debug/net5.0/Bin Tree.runtimeconfig.json
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/bin/Debug/net5.0/Bin Tree.runtimeconfig.dev.json
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/bin/Debug/net5.0/Bin Tree.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/bin/Debug/net5.0/ref/Bin Tree.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/bin/Debug/net5.0/Bin Tree.pdb
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.csproj.AssemblyReference.cache
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.AssemblyInfoInputs.cache
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.AssemblyInfo.cs
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.csproj.CoreCompileInputs.cache
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/ref/Bin Tree.dll
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.pdb
+/Users/logo/RiderProjects/219OvchinnikovVsevolod/MODULE_3/HW_10/Bin Tree/obj/Debug/net5.0/Bin Tree.genruntimeconfig.cache
